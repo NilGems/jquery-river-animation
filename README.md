@@ -16,3 +16,5 @@ $('#nsm-river-animation').nsmRiverAnimation();
 </div>
 $('#nsm-river-animation').nsmRiverAnimation();
 ```
+# Demo
+[View demo] (http://project.otipl.com/river-animation/)
